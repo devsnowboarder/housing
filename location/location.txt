@@ -1,0 +1,29 @@
+# --- SEARCH SETTINGS ---
+MAX_PRICE = 1500000
+MIN_BEDROOMS = 3
+MAX_HOA = None
+HIDE_PENDING = False
+
+# --- MORTGAGE SETTINGS ---
+DOWN_PAYMENT_PCT = 0.20
+INTEREST_RATE = 0.0728
+LOAN_TERM_YEARS = 30
+PROPERTY_TAX_RATE = 0.0123
+ANNUAL_HOME_INSURANCE = 1800
+
+
+# --- LOCATIONS (one city or ZIP code per line) ---3
+
+#Daly City, CA
+#South San Francisco, CA
+#San Bruno, CA
+#Millbrae, CA
+Burlingame, CA
+San Mateo, CA
+Redwood City, CA
+Menlo Park, CA
+Palo Alto, CA
+Mountain View, CA
+San Jose, CA
+Santa Clara, CA
+Cupertino, CA
