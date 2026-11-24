@@ -599,4 +599,3 @@ if __name__ == "__main__":
                 f"({new_count} new, {drop_count} price drops) ---"
             )
             print(f"Saved results to {OUTPUT_FILE}. Opening in your browser...")
-            webbrowser.open(fg"file://{os.path.abspath(OUTPUT_FILE)}")

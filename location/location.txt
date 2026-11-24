@@ -27,3 +27,6 @@ Mountain View, CA
 San Jose, CA
 Santa Clara, CA
 Cupertino, CA
+Saratoga, CA
+Milpitas, CA
+Fremont, CA
